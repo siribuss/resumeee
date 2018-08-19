@@ -1,0 +1,59 @@
+{
+	"details":{
+		"image":"vs3.jpg",
+		"name":"viswasri",
+		"phoneno":"8497990526",
+		"emailid":"viswamaddirala1922@gmail.com",
+		"address":"perecharla."
+	},
+	"career":{
+		"info":"to purchase a challenging carrer and be a challenge"
+	},
+	"education":[
+		{
+			"qualification":"b.tech",
+			"institute":"vignan's nirula college",
+			"year":"2016-2020",
+			"perecentage":"95%."
+		},
+		{
+			"qualification":"inter",
+			"institute":"lalitha institution",
+			"year":"2014-2016",
+			"percentage":"92%."
+		},
+		{
+			"qualification":"10th",
+			"institute":"vignan high school",
+			"year":"2013-1014",
+			"percentage":"88%."
+		}
+
+	],
+	"skills":[{
+		"title":"programming languages",
+		"info":["c","java","python","r"]
+	},
+	{
+	"title":"databases",
+	"info":["oracle","sql","mysql"]
+},
+{
+	"title":"operating systems",
+	"info":["unix","windows","mac"]
+}
+],
+	"achievements":[{
+
+		"title":"first in shuttle"
+	},
+	{
+		
+		"title":"first in essay writing"
+	},
+	{
+
+		"title":"first in dancing"
+	}
+]
+}
